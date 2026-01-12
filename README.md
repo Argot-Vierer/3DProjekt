@@ -11,7 +11,7 @@ Nowoczesna strona internetowa z elementami 3D zbudowana przy użyciu Vite i Thre
 ## Funkcje
 
 - Interaktywna scena 3D
-- Obracająca się kostka jako demo
+- Obracające się bloby w tle
 - Responsywny design
 - Hot Module Replacement (HMR)
 
