@@ -1,6 +1,7 @@
 # 3D Website Project
 
 Nowoczesna strona internetowa z elementami 3D zbudowana przy użyciu Vite i Three.js.
+Link do projektu: https://69656d8793489e048f210cc6--magnificent-veranstaltungen.netlify.app
 
 ## Technologie
 
